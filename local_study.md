@@ -1,3 +1,4 @@
+```php
 function Wo_GetFreeReferrers($user_id = 0)
 {
     global $sqlConnect, $wo;
@@ -334,3 +335,4 @@ function Wo_GetLevel5Referrers($user_id = 0)
 
     return $count;
 }
+```
